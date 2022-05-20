@@ -1,0 +1,9 @@
+Hello Devs,
+
+I am Hertz
+First of all, I wanted to say thank you for your time & interest in Silentless-X puzzle subject : //Devs;
+As you know this is a fun puzzle for me to create, I hope you enjoy cracking it as im enjoying creating it!
+Please do not send this file to your friends.
+You and only you are worthy to open this file.
+
+//run index.html on your local Server
